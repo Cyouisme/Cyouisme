@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Deep Learning
 - 📫 How to reach me: https://www.linkedin.com/in/chung-hoang-a26b52198/
 - 🧑‍💻 Tech I work on :
-
+https://www.vectorlogo.zone/logos/python/python-icon.svg
 <p align="center">
      
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
