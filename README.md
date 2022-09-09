@@ -6,6 +6,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/chung-hoang-a26b52198/
 - 🧑‍💻 Tech I work on :
 https://www.vectorlogo.zone/logos/python/python-icon.svg
+<!---
 <p align="center">
      
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -18,6 +19,7 @@ https://www.vectorlogo.zone/logos/python/python-icon.svg
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="45" height="55"/>
       
 </p>
+--->
 
 <!---
 Cyouisme/Cyouisme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
