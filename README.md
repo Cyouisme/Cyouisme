@@ -59,6 +59,7 @@
     <td>
       <p align="center"> 
         <img src="images/coding.gif"/>  
+        <img src="images/thunder.gif"/>  
       </p>
     </td>
   </tr>
