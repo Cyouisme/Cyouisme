@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cyouisme</h1>
-<iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc">via GIPHY</a></p>
+<img src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="480" height="480"/>
 <h3 align="center">AI Engineer + Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyouisme" alt="cyouisme" /> <img src="https://badges.pufler.dev/repos/Cyouisme" alt="cyouisme" /> </p>
 
-<<<<<<< Updated upstream
-=======
+
 - 👋 Hi, I’m @Cyouisme <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deep Learning
@@ -59,7 +58,8 @@
     </td>
     <td>
       <p align="center"> 
-        <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+        <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"/>
+
       </p>
     </td>
   </tr>
@@ -161,9 +161,4 @@
     <img alt="dsc" title="DSC-DTU Certificate of Completion" src="images/dsc.png" width="300px" />
   </a>
 </p>
-=======
-<!---
-Cyouisme/Cyouisme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> -->
->>>>>>> Stashed changes
+
