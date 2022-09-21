@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyouisme</h1>
-<p align="center"> <img src="images/helloworld.gif" style="max-width:60%" /> </p>
+<p align="center"> <img src="images/helloworld.gif" width="400" height="300" /> </p>
 <h3 align="center"> < AI Engineer + Software Engineer /> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyouisme" alt="cyouisme" /> 
 <!-- <img src="https://badges.pufler.dev/repos/cyouisme" alt="cyouisme" />  -->
