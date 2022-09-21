@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyouisme</h1>
 <p align="center"> <img src="images/helloworld.gif"/> </p>
 <h3 align="center">AI Engineer + Software Engineer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyouisme" alt="cyouisme" /> <img src="https://badges.pufler.dev/repos/Cyouisme" alt="cyouisme" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyouisme" alt="cyouisme" /> <img src="https://badges.pufler.dev/repos/cyouisme" alt="cyouisme" /> </p>
 
 
 - 👋 Hi, I’m @Cyouisme <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
