@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Cyouisme</h1>
-<p align="center"> <img src="images/helloworld.gif"/> </p>
-<h3 align="center">AI Engineer + Software Engineer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyouisme" alt="cyouisme" /> <img src="https://badges.pufler.dev/repos/cyouisme" alt="cyouisme" /> </p>
+<p align="center"> <img src="images/helloworld.gif" style="max-width:60%" /> </p>
+<h3 align="center"> < AI Engineer + Software Engineer /> </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyouisme" alt="cyouisme" /> 
+<!-- <img src="https://badges.pufler.dev/repos/cyouisme" alt="cyouisme" />  -->
+</p>
 
 
 - 👋 Hi, I’m @Cyouisme <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Deep Learning
+- 🌱 I’m currently learning Deep Learning, Data and Cloud
+- 💞️ I’m looking to collaborate on AI
 
 
 ## 📫 How to reach me:
-
-<!-- [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chung-hoang-a26b52198/" target="_blank">
