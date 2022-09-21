@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyouisme</h1>
-<img align="center" src="images/helloworld.gif"/>
+<p align="center"> <img src="images/helloworld.gif"/> </p>
 <h3 align="center">AI Engineer + Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cyouisme" alt="cyouisme" /> <img src="https://badges.pufler.dev/repos/Cyouisme" alt="cyouisme" /> </p>
 
@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/ios/50/000000/flask.png"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/office/16/000000/selenium-test-automation.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/office/40/000000/selenium-test-automation.png"/>
   <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
