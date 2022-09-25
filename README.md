@@ -27,9 +27,13 @@
   <a href="https://www.instagram.com/_cyouisme_/" alt="Instagram" target="_blank" >
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
+  <a href="https://playerduo.com/cyouisme23" alt="Playerduo" target="_blank" >
+    <img src="<img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-donate-humanitarian-soft-fill-soft-fill-juicy-fish-4.png"/>"/>
+  </a>
   <a href="mailto:baochunga1@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  
 </p>
 
 ## Skills:
