@@ -79,7 +79,7 @@
     <img alt="Coursera cef" title="Neural network and Deep learning" src="images/NN&DL.png" width="300px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/F7HHEHCFHWLL">
-    <img alt="Coursera cef" title="Sequence Models" src="images/NN&DL.png" width="300px" />
+    <img alt="Coursera cef" title="Sequence Models" src="images/SequenceModel.png" width="300px" />
   </a>
 </p>
 
